@@ -1,1 +1,0 @@
-# AdventureWorks - repo by Nitin
